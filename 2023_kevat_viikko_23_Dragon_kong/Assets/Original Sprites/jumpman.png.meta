@@ -1,7 +1,115 @@
 fileFormatVersion: 2
 guid: d5b344e92743a4544927c6a58d062551
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: 183772222122384131
+    second: jumpman_0
+  - first:
+      213: 6800731957674767267
+    second: jumpman_1
+  - first:
+      213: 3556978198919379833
+    second: jumpman_2
+  - first:
+      213: 19869223166701618
+    second: jumpman_3
+  - first:
+      213: 1137428020641273601
+    second: jumpman_4
+  - first:
+      213: 2053178320781366416
+    second: jumpman_5
+  - first:
+      213: -5405500788437686348
+    second: jumpman_6
+  - first:
+      213: -972489530727889482
+    second: jumpman_7
+  - first:
+      213: -4410700304362548627
+    second: jumpman_8
+  - first:
+      213: 2560843358042351752
+    second: jumpman_9
+  - first:
+      213: -3963301227442977615
+    second: jumpman_10
+  - first:
+      213: -131152980269936876
+    second: jumpman_11
+  - first:
+      213: -1187193452778589860
+    second: jumpman_12
+  - first:
+      213: -3432656415426896031
+    second: jumpman_13
+  - first:
+      213: 8992413374527589716
+    second: jumpman_14
+  - first:
+      213: 3494872251994372055
+    second: jumpman_15
+  - first:
+      213: -742558163298981207
+    second: jumpman_16
+  - first:
+      213: -4644094847022628510
+    second: jumpman_17
+  - first:
+      213: 6429898699628925398
+    second: jumpman_18
+  - first:
+      213: -4499454306255148281
+    second: jumpman_19
+  - first:
+      213: -4762948626339545667
+    second: jumpman_20
+  - first:
+      213: 1794258695540162838
+    second: jumpman_21
+  - first:
+      213: 2907362823255945548
+    second: jumpman_22
+  - first:
+      213: -714022025001337269
+    second: jumpman_23
+  - first:
+      213: -93687465401155531
+    second: jumpman_24
+  - first:
+      213: 9004843858987099427
+    second: jumpman_25
+  - first:
+      213: 1234269990548813050
+    second: jumpman_26
+  - first:
+      213: -920277857089582876
+    second: jumpman_27
+  - first:
+      213: 2095364788657830334
+    second: jumpman_28
+  - first:
+      213: 3375824318214962981
+    second: jumpman_29
+  - first:
+      213: -3191573538788477174
+    second: jumpman_30
+  - first:
+      213: -5399006223657805379
+    second: jumpman_31
+  - first:
+      213: 1293546154862648443
+    second: jumpman_32
+  - first:
+      213: 7647571056284757607
+    second: jumpman_33
+  - first:
+      213: 643183893171545446
+    second: jumpman_34
+  - first:
+      213: 3832052413779323826
+    second: jumpman_35
   externalObjects: {}
   serializedVersion: 12
   mipmaps:
@@ -32,7 +140,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -41,12 +149,12 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 8
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -90,7 +198,763 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: jumpman_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 9
+        width: 12
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30b5033ccd3ec8200800000000000000
+      internalID: 183772222122384131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jumpman_1
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 9
+        width: 15
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a3f9d50fad016e50800000000000000
+      internalID: 6800731957674767267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jumpman_2
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 9
+        width: 15
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97bf56483dcec5130800000000000000
+      internalID: 3556978198919379833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jumpman_3
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 9
+        width: 13
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23070d404f6964000800000000000000
+      internalID: 19869223166701618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jumpman_4
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 9
+        width: 14
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10716e722c4f8cf00800000000000000
+      internalID: 1137428020641273601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jumpman_5
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 10
+        width: 16
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 094d4b6fdca5e7c10800000000000000
+      internalID: 2053178320781366416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jumpman_6
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 9
+        width: 16
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b7e3182cadcbf4b0800000000000000
+      internalID: -5405500788437686348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jumpman_7
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 9
+        width: 12
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b58d2d9ce50182f0800000000000000
+      internalID: -972489530727889482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jumpman_8
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 9
+        width: 14
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6253cb217b0ac2c0800000000000000
+      internalID: -4410700304362548627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jumpman_9
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 9
+        width: 14
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88868895771f98320800000000000000
+      internalID: 2560843358042351752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jumpman_10
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 9
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b4446838868ff8c0800000000000000
+      internalID: -3963301227442977615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jumpman_11
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 9
+        width: 15
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41fc6cf2f0d0e2ef0800000000000000
+      internalID: -131152980269936876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jumpman_12
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 9
+        width: 16
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c51767f38dd368fe0800000000000000
+      internalID: -1187193452778589860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jumpman_13
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 9
+        width: 16
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16f938a5d21cc50d0800000000000000
+      internalID: -3432656415426896031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jumpman_14
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 9
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45d403ef1587bcc70800000000000000
+      internalID: 8992413374527589716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jumpman_15
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 10
+        width: 16
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d77e7bebc7408030800000000000000
+      internalID: 3494872251994372055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jumpman_16
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 9
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9aa6f73e847e1b5f0800000000000000
+      internalID: -742558163298981207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jumpman_17
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 9
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2618ef3975cdc8fb0800000000000000
+      internalID: -4644094847022628510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jumpman_18
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 9
+        width: 12
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d1d02ddcc69b3950800000000000000
+      internalID: 6429898699628925398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jumpman_19
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 10
+        width: 5
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70b6f88c52abe81c0800000000000000
+      internalID: -4499454306255148281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jumpman_20
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 9
+        width: 26
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbdb893a57b96edb0800000000000000
+      internalID: -4762948626339545667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jumpman_21
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 9
+        width: 14
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 611c3d6f6cc76e810800000000000000
+      internalID: 1794258695540162838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jumpman_22
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 10
+        width: 5
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c41f8597517095820800000000000000
+      internalID: 2907362823255945548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jumpman_23
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 9
+        width: 28
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4e7df550c84716f0800000000000000
+      internalID: -714022025001337269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jumpman_24
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 9
+        width: 15
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5308bd02fb723bef0800000000000000
+      internalID: -93687465401155531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jumpman_25
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 10
+        width: 5
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 325a8c0b7c1a7fc70800000000000000
+      internalID: 9004843858987099427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jumpman_26
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 9
+        width: 28
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af436975402012110800000000000000
+      internalID: 1234269990548813050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jumpman_27
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 9
+        width: 12
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e884813a248a33f0800000000000000
+      internalID: -920277857089582876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jumpman_28
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 10
+        width: 5
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb9bfce6c2b341d10800000000000000
+      internalID: 2095364788657830334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jumpman_29
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 9
+        width: 26
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52ff35fd45659de20800000000000000
+      internalID: 3375824318214962981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jumpman_30
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 9
+        width: 14
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a07f9f1b6c045b3d0800000000000000
+      internalID: -3191573538788477174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jumpman_31
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 10
+        width: 5
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db9d0cad170e215b0800000000000000
+      internalID: -5399006223657805379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jumpman_32
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 9
+        width: 28
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7c1925df5993f110800000000000000
+      internalID: 1293546154862648443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jumpman_33
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 9
+        width: 15
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76e696c6b51a12a60800000000000000
+      internalID: 7647571056284757607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jumpman_34
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 10
+        width: 5
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6652eb5d75c0de800800000000000000
+      internalID: 643183893171545446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jumpman_35
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 9
+        width: 29
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bbaef30e5f2e2530800000000000000
+      internalID: 3832052413779323826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []

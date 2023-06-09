@@ -6,6 +6,10 @@ TagManager:
   tags:
   - Platform
   - Ladder
+  - Bound
+  - Fireball
+  - Fire
+  - Princess
   layers:
   - Default
   - TransparentFX

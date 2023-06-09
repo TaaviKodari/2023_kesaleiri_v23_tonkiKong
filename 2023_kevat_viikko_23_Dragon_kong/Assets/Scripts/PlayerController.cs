@@ -1,9 +1,12 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 public class PlayerController : MonoBehaviour
 {
+    public Transform gameOver;
+    public Transform winner;
     public float moveSpeed = 5f;
     public Rigidbody2D player;
     public float jumpForce = 5f;
@@ -36,6 +39,13 @@ public class PlayerController : MonoBehaviour
         CheckClimbing();
 
         Climb();
+
+        if(horizontalInput > 0 ){
+            transform.localScale = new Vector3(1,1,1);
+        }
+        else if(horizontalInput < 0 ){
+            transform.localScale = new Vector3(-1,1,1);
+        }        
 
         movement.x = horizontalInput * moveSpeed; 
     }
@@ -101,4 +111,24 @@ public class PlayerController : MonoBehaviour
         }
     }
 
+    void OnCollisionEnter2D(Collision2D collision){
+        if(collision.gameObject.CompareTag("Fireball")){
+           StartCoroutine(GameOverDelay());
+        }
+          if(collision.gameObject.CompareTag("Princess")){
+           StartCoroutine(WinnerDelay());
+        }
+    }
+
+    IEnumerator WinnerDelay(){
+        winner.gameObject.SetActive(true);
+        yield return new WaitForSeconds(2f);
+        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
+    }
+
+     IEnumerator GameOverDelay(){
+        gameOver.gameObject.SetActive(true);
+        yield return new WaitForSeconds(2f);
+        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
+     }
 }
